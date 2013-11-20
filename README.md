@@ -71,13 +71,13 @@ If you did not change any  default configuration in pom.xml of the modules, now 
 mvn clean install 
 ```
 
-2. now starting apps
+2.  now starting apps
 
 ```java
 mvn tomcat:run
 ```
 
-3. Access http://localhost:8080/webapps-web/
+3.  Access http://localhost:8080/webapps-web/
 
 ###How to custom? What should I change? 
 
