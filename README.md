@@ -25,7 +25,7 @@ webapps module archetype for creating web application with **AngularJS 1.0.x wit
 **Step 1**
 
 ```java
-git clone git@github.com:camilolopes/webapps-module-angularjs.git
+git clone git@github.com:camilolopes/archetype-webapps-module-angularjs.git
 ```
 
 **Step 2**
